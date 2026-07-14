@@ -18,6 +18,8 @@
         "username": "First1",
         "password": "123455",
         "expirydate": "15-09-2026",
+        "login_timestamp": "2026-07-14T10:30:00Z",
+        "status": "success|failed",
         "Allowoffline": false
     },
     {
